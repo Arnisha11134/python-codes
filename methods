@@ -1,2 +1,3 @@
 course = ( "python for bigenners " )
 print (course.capitalize())
+print (course)
