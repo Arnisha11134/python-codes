@@ -1,3 +1,4 @@
 course = ( "python for bigenners " )
 print (course.capitalize())
 print (course)
+print (course.find("y"))
